@@ -45,7 +45,6 @@ When there are courses or books that don't fit into the curriculum but are other
 they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
-- *Intro CS*: for students to try out CS and see if it's right for them
 - *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
@@ -84,9 +83,6 @@ just remember that you can't purchase success!
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
@@ -110,34 +106,6 @@ just remember that you can't purchase success!
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
-
-## Intro CS
-
-### Introduction to Programming
-
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
-
-**Topics covered**:
-`simple programs`
-`simple data structures`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
-
-### Introduction to Computer Science
-
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
-
-**Topics covered**:
-`computation`
-`imperative programming`
-`basic data structures and algorithms`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
@@ -164,9 +132,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | 8-10 hours/week | none | [chat](https://discord.gg/RfqAmGJ)
 [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 
 ### Math Electives
 **Students must choose one of the following topics**: calculus, linear algebra, logic, or probability.
