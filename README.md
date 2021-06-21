@@ -87,6 +87,7 @@ just remember that you can't purchase success!
   - [Core programming](#core-programming)
   - [Core math](#core-math)
   - [CS Tools](#cs-tools)
+  - [CS Languages](#cs-languages)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
   - [Core applications](#core-applications)
@@ -189,6 +190,16 @@ Understanding theory is important, but you will also be expected to create progr
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
+
+### CS Languages
+Throughline with other curriculum-based repositories.
+
+**Topics covered**:
+`C`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) | 3 weeks | 12 hours/week | - | -
 
 ### Core systems
 
